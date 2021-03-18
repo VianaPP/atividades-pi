@@ -1,0 +1,21 @@
+.retangulo{
+    width: 100%;
+}
+
+.retangulo_altura_50{
+    height: 50px;
+}
+
+.retangulo_altura_400{
+    height: 400px;
+    background-color: chartreuse;
+}
+
+.retangulo_cor_preta{
+    background-color: black;
+}
+
+.retangulo_cor_rosa{
+    background-color:salmon;
+}
+
